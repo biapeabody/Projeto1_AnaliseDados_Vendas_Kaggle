@@ -1,3 +1,11 @@
+# 📣 Mini Projeto: Insights Orientados a Dados
+
+🔍 **Módulo 01 – Exploração e Visualização de Dados com Python**  
+👩‍🎓 **Aluna:** Ana Beatriz Torres Neri  
+👥 **Grupo:** DADOS_3_10
+
+---
+
 # 📊 Análise de Vendas - Projeto de Exploração de Dados
 
 Este projeto consiste na análise exploratória de uma base de dados fictícia de vendas, com o objetivo de extrair insights comerciais relevantes, entender padrões de consumo e identificar oportunidades estratégicas.
