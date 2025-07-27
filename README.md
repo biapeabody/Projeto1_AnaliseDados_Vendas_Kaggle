@@ -1,8 +1,12 @@
-# 📣 Mini Projeto: Insights Orientados a Dados
+# 📊 Mini Projeto: Insights Orientados a Dados
 
 🔍 **Módulo 01 – Exploração e Visualização de Dados com Python**  
 👩‍🎓 **Aluna:** Ana Beatriz Torres Neri  
 👥 **Grupo:** DADOS_3_10
+
+## ▶️ Acesse no Google Colab
+
+[🔗 Clique aqui para abrir o notebook no Google Colab](https://colab.research.google.com/drive/1AOfSFSQ4r0dgSCiw0ZT0lxGEeMfmZr9T?usp=sharing)
 
 ---
 
