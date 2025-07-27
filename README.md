@@ -50,3 +50,10 @@ A base utilizada contém informações sobre pedidos realizados entre 2003 e 200
    ```bash
    git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
 
+## 👩‍💻 Autoria
+
+Projeto desenvolvido por **Ana Beatriz Torres Neri**, como parte do **Módulo 01** da formação em **Análise de Dados com Python**.
+
+📧 Contato: [biapeabody@gmail.com](mailto:biapeabody@gmail.com)  
+🔗 GitHub: [@biapeabody](https://github.com/biapeabody)
+
